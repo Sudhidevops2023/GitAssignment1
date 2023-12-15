@@ -1,0 +1,2 @@
+this is the file named Code.txt
+created inside newfolder

@@ -1,0 +1,1 @@
+this is the file named Output.txt and created inside newfolder as part of my assignment 
